@@ -10,6 +10,7 @@ mob
 		say(msg as text)
 			view() << "<b>[usr]</b> says, [msg]"
 	icon = 'player.dmi'
+	icon_state = "player"
 
 turf
 	carpet
